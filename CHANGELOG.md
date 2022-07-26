@@ -1,3 +1,6 @@
+## 6.0.2
+ - Add new multiplex option to multiplex multiple Logstash event messages in a single SQS message.
+
 ## 6.0.1
  - Added missing index entry for `queue_owner_aws_account_id` [#33](https://github.com/logstash-plugins/logstash-output-sqs/pull/33)
 
